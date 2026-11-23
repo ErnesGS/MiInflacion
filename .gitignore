@@ -1,0 +1,17 @@
+# Entorno virtual local de Python
+/.venv/
+
+# Caché de Python y autoguardados de Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Variables de entorno y credenciales locales
+.env
+.env.*
+!.env.example
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store

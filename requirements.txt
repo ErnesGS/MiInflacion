@@ -1,0 +1,9 @@
+# Dependencias del EDA documentadas para Python 3.14.5
+numpy==2.5.4
+pandas==3.1.1
+matplotlib==3.11.2
+matplotlib-inline==0.2.2
+
+# Kernel de Python y presentación de resultados en el cuaderno
+ipykernel==7.4.0
+ipython
